@@ -1,2 +1,45 @@
-# AI-Leave-Management-System
-An AI-powered Leave Management Web Application built using Python, Streamlit, and Pandas.
+# 🤖 AI Leave Management System
+
+A simple AI-based HR Leave Management Web App built using Streamlit and Python.
+
+## 🚀 Features
+
+- 🔐 Secure Login System
+- 👤 Multiple User Support
+- 📊 Employee Leave Tracking
+- ✅ Automatic Leave Approval Logic
+- 📄 PDF Leave Summary Download
+- 💾 CSV Data Storage
+
+## 🛠️ Tech Stack
+
+- Python
+- Streamlit
+- Pandas
+- CSV File Handling
+
+## ▶️ How to Run
+
+1. Install dependencies:
+
+```
+pip install streamlit pandas
+```
+
+2. Run the app:
+
+```
+streamlit run AI_Bot.py
+```
+
+## 📂 Project Structure
+
+```
+AI_Bot.py
+employee_data.csv
+```
+
+## 👨‍💻 Author
+
+Anshul Rajput  
+B.Tech Student | Python Developer
