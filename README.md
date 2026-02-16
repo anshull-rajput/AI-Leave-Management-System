@@ -43,5 +43,3 @@ employee_data.csv
 
 Anshul Rajput  
 B.Tech Student | Python Developer
-
-👉  https://github.com/anshull-rajput/AI-Leave-Management-System
