@@ -11,12 +11,16 @@ A simple AI-based HR Leave Management Web App built using Streamlit and Python.
 - 📄 PDF Leave Summary Download
 - 💾 CSV Data Storage
 
+---
+
 ## 🛠️ Tech Stack
 
 - Python
 - Streamlit
 - Pandas
 - CSV File Handling
+
+---
 
 ## ▶️ How to Run
 
@@ -41,5 +45,14 @@ employee_data.csv
 
 ## 👨‍💻 Author
 
-Anshul Rajput  
-B.Tech Student | Python Developer
+Anshul Rajput
+Software Developer | C++,Python
+👉 GitHub: https://github.com/anshull-rajput
+👉 LinkedIn: www.linkedin.com/in/anshull-rajput
+
+
+
+---
+
+
+---
