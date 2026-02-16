@@ -2,6 +2,8 @@
 
 A simple AI-based HR Leave Management Web App built using Streamlit and Python.
 
+---
+
 ## 🚀 Features
 
 - 🔐 Secure Login System
@@ -42,6 +44,8 @@ streamlit run AI_Bot.py
 AI_Bot.py
 employee_data.csv
 ```
+
+---
 
 ## 👨‍💻 Author
 
