@@ -50,7 +50,7 @@ employee_data.csv
 ## 👨‍💻 Author
 
 Anshul Rajput
-Software Developer | C++,Python
+Software Developer | C++,Python,Data Scientist
 
 👉 GitHub: https://github.com/anshull-rajput
 
