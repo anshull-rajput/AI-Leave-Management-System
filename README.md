@@ -54,6 +54,8 @@ employee_data.csv
 ## *Anshul Rajput*
 ## *Software Developer | C++ | Python | Data Scientist |*
 
+---
+
 ## 🌐 *Connect with Me*
 <p align="center">
   <a href="mailto:anshulrajput262006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
@@ -64,7 +66,6 @@ employee_data.csv
 </p>
 
 
----
 
 ## ⭐ If you like my Project, please consider giving a star!
 
