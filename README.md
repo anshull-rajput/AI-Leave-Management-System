@@ -4,7 +4,10 @@
 
 ## *A simple AI-based HR Leave Management Web App built using Streamlit and Python.*
 
----
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 ## 🚀 Features
 
@@ -15,7 +18,10 @@
 - 📄 PDF Leave Summary Download
 - 💾 CSV Data Storage
 
----
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -24,7 +30,10 @@
 - Pandas
 - CSV File Handling
 
----
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 ## ▶️ How to Run
 
@@ -47,14 +56,20 @@ AI_Bot.py
 employee_data.csv
 ```
 
----
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 ## 👨‍💻 Author
 
 ## *Anshul Rajput*
 ## *Software Developer | C++ | Python | Data Scientist |*
 
----
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 ## 🌐 *Connect with Me*
 <p align="center">
