@@ -9,7 +9,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
-## 🚀 Features
+## *🚀 Features*
 
 - 🔐 Secure Login System
 - 👤 Multiple User Support
@@ -23,7 +23,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
-## 🛠️ Tech Stack
+## *🛠️ Tech Stack*
 
 - Python
 - Streamlit
@@ -35,7 +35,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
-## ▶️ How to Run
+## *▶️ How to Run*
 
 1. Install dependencies:
 
@@ -49,7 +49,7 @@ pip install streamlit pandas
 streamlit run AI_Bot.py
 ```
 
-## 📂 Project Structure
+## *📂 Project Structure*
 
 ```
 AI_Bot.py
@@ -61,7 +61,7 @@ employee_data.csv
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
-## 👨‍💻 Author
+## *👨‍💻 Author*
 
 ## *Anshul Rajput*
 ## *Software Developer | C++ | Python | Data Scientist |*
