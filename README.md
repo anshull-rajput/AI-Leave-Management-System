@@ -82,7 +82,7 @@ employee_data.csv
 
 
 
-## ⭐ If you like my Project, please consider giving a star!
+## *⭐ If you like my Project, please consider giving a star!*
 
 
 ---
