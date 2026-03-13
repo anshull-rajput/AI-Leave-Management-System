@@ -82,9 +82,7 @@ employee_data.csv
 </p>
 
 
-
 ## *⭐ If you like my Project, please consider giving a star!*
-
 
 </p>
 <p align="center">
