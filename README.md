@@ -2,6 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=🤖%20AI%20Leave%20Management%20System&fontSize=40&fontAlignY=35&desc=HR%20Work%20%7C%20Work%20Easy%20With%20AI%20%7C%20Learn%20(Python🐍)&descAlignY=55" />
 </p>
 
+
 ## *A simple AI-based HR Leave Management Web App built using Streamlit and Python.*
 
 </p>
